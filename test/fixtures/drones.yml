@@ -1,9 +1,17 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
+  name: BlueLightning
   status: 1
 
 two:
-  name: MyString
+  name: WhiteSnow
+  status: 3
+
+three:
+  name: FastRabbit
   status: 1
+
+four:
+  name: NeonTree
+  status: 1332
